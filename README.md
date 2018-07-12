@@ -1,2 +1,2 @@
 # Bliss19
-All the codes related to bliss19 are present here.
+All the stuff related to bliss19 is present here.
